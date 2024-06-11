@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794102320729",
+    "project_id": "realtime-database-with-hashmap",
+    "storage_bucket": "realtime-database-with-hashmap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794102320729:android:c866502a798eadbd462b48",
+        "android_client_info": {
+          "package_name": "com.example.realtimedatabasewithhashmap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR8dqPFyOGGcj1r3suFO7pFUwcwZFqdl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
